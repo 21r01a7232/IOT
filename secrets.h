@@ -1,8 +1,5 @@
-// Use this file to store all of the private credentials 
-// and connection details
+#define SECRET_SSID "SSID"		
+#define SECRET_PASS "PASSWORD"	
 
-#define SECRET_SSID "iQOO Z5"		// replace MySSID with your WiFi network name
-#define SECRET_PASS "........"	// replace MyPassword with your WiFi password
-
-#define SECRET_CH_ID 2534082			// replace 0000000 with your channel number
-#define SECRET_WRITE_APIKEY "P2WSKH683H29UVCM"   // replace XYZ with your channel write API Key
+#define SECRET_CH_ID  0000000			
+#define SECRET_WRITE_APIKEY "API_KEY"
